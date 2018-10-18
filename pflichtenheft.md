@@ -200,21 +200,21 @@
 **TODO WEITERE ASPEKTE**
 
 | Produktqualität | sehr gut | gut | normal |nicht relevant |
-|--|--|--|--|--|
-| **Funktionalität** |||||
-|Angemessenheit|||||
-|Richtigkeit|||||
-|Interoperabilität|||||
-|Ordnungsmäßigkeit|||||
-|Sicherheit|||||
-|Übertragbarkeit||||X|
-|**Zuverlässigkeit**|||||
-|Reife|||||
-|Fehlertoleranz|||||
-|Wiederherstellbarkeit|||||
-|**Benutzbarkeit**|||||
-|Verständlichkeit|||||
-|Erlernbarkeit|||||
-|Bedienbarkeit|||||
-|Effizienz|||||
-|Zeitverhalten||||
+|---|---|---|---|---|
+| **Funktionalität** | | | | |
+|Angemessenheit| | | | |
+|Richtigkeit| | | | |
+|Interoperabilität| | | | |
+|Ordnungsmäßigkeit| | | | |
+|Sicherheit| | | | |
+|Übertragbarkeit| | | |X|
+|**Zuverlässigkeit**| | | | |
+|Reife| | | | |
+|Fehlertoleranz| | | | |
+|Wiederherstellbarkeit| | | | |
+|**Benutzbarkeit**| | | | |
+|Verständlichkeit| | | | |
+|Erlernbarkeit| | | | |
+|Bedienbarkeit| | | | |
+|Effizienz| | | | |
+|Zeitverhalten| | | | |
