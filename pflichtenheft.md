@@ -267,19 +267,46 @@
 
 ## 9. Lieferanforderungen
 
+- ausfuehrbares Programm in 2 Monaten
+- Installation und Einweisung vor Ort
+
 ## 10. Anforderungen an Dokumentation
 
+- Benutzerhandbuch und Installationshinweise
+- Changelog
+
 ## 11. Nichtfunktionale Anforderungen
+
+- Authentifizierung
+- Alle Datenbanken verschluesselt
+- Preis 0 EUR oder Rabatt groesser 10% nur durch Authentifizierung des Geschaeftsfuehrers
+- alle Loeschoperationen nur durch Geschaeftsfuehrer moeglich
 
 ## 12. Technische Produktumgebung
 
 ### 12.1 Software
+
+- Webbrowser
+
 ### 12.2 Hardware
+
+- PC
+- Laptop
+- Smartphone
+
 ### 12.3 Orgware
+
+- Intranet
+
 ### 12.4 Produkt Schnittstellen
+
+- Druckeranbindung (Lieferscheine)
+- Barcode Scanner
 
 ## 13. Spezielle Anforderungen an die Entwicklungsumgebung
 
+- Node.js
+
 ## 14. Gliederung in Teilprodukte
 
-## 15. Ergaenzungen
+## 15. Ergaenzungen/Glossar
