@@ -232,3 +232,54 @@
 |Effizienz| | | | |
 |Zeitverhalten| | | | |
 
+## 8. Benutzungsoberflaeche
+
+**/B01/ Aussehen**
+
+- Responsives Design, fuer Darstellung auf kleinem Monitor im Verkaufsraum, aber auch grosses Display im Lager
+- Einfache Designsprache, klare Schrift (Kontrast), evtl. barrierefrei
+
+**/B02/ Aufbau**
+
+- "uebersichtliche Struktur"
+- Oberer Bereich: Menueleiste mit Optionen
+  - Datenbankoperationen(/F01-F04/)
+    - Produkt
+    - Kunde
+    - Lieferant
+    - Produzent
+  - Ausgabe von Daten (/F05-F06/)
+  - Lieferscheinerstellung (/F07/)
+  - Suche (/F08/)
+- Mittlerer Bereich: Darstellung der Operation/Anfrage
+
+**/B03/ Fehleingaben**
+
+- Fehleingaben beispielsweise bei Datenbankoperationen muessen abgefangen werden und eine Fehlermeldung muss angezeigt werden
+
+**/B04/ Authentifizierung**
+
+- Zugang zur Software muss autorisiert werden
+
+**/B05/ Hilfedatenbank
+
+- an passenden Stellen werden Hilfetexte eingeblendet
+
+## 9. Lieferanforderungen
+
+## 10. Anforderungen an Dokumentation
+
+## 11. Nichtfunktionale Anforderungen
+
+## 12. Technische Produktumgebung
+
+### 12.1 Software
+### 12.2 Hardware
+### 12.3 Orgware
+### 12.4 Produkt Schnittstellen
+
+## 13. Spezielle Anforderungen an die Entwicklungsumgebung
+
+## 14. Gliederung in Teilprodukte
+
+## 15. Ergaenzungen
