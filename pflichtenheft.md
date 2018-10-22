@@ -1,5 +1,5 @@
 # Pflichtenheft **"Obst und Gemuese Meier oHG"**
--
+---
 ## 1. Zielbestimmung
 
 ### 1.1 Musskriterien
@@ -161,6 +161,19 @@
   - Dokument erzeugen
 - Erweiterung: - 
 
+**/F08/**
+- Geschaeftsprozess: Suche mit Endbenutzersprache
+- Ziel: User erhaelt Suchergebnis(se)
+- Kategorie: primaer
+- Vorbedingung: 
+	- Eingabe des Suchbegriffs
+- Nachbedingung Erfolg: Rueckgabe einer Liste
+- Nachbedingung Fehlschlag: Fehlermeldung
+- Akteure: Geschaeftsfuehrer, Aushilfe
+- Beschreibung: 
+	- Vergleich des Suchbegriffs mit allen Elementen in allen Datenbanken
+  - Ausgabe aller "Matches"
+- Erweiterung: - 
   
 
 ## 5. Produktdaten
@@ -219,4 +232,3 @@
 |Effizienz| | | | |
 |Zeitverhalten| | | | |
 
-test
