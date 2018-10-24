@@ -215,22 +215,22 @@
 | Produktqualität | sehr gut | gut | normal |nicht relevant |
 |---|---|---|---|---|
 | **Funktionalität** | | | | |
-|Angemessenheit| | | | |
-|Richtigkeit| | | | |
-|Interoperabilität| | | | |
-|Ordnungsmäßigkeit| | | | |
-|Sicherheit| | | | |
+|Angemessenheit|X | | | |
+|Richtigkeit| |X | | |
+|Interoperabilität|X |X | | |
+|Ordnungsmäßigkeit|X | | | |
+|Sicherheit| | |X | |
 |Übertragbarkeit| | | |X|
 |**Zuverlässigkeit**| | | | |
-|Reife| | | | |
-|Fehlertoleranz| | | | |
-|Wiederherstellbarkeit| | | | |
+|Reife| | |X | |
+|Fehlertoleranz| | |X | |
+|Wiederherstellbarkeit| | |X | |
 |**Benutzbarkeit**| | | | |
-|Verständlichkeit| | | | |
-|Erlernbarkeit| | | | |
-|Bedienbarkeit| | | | |
-|Effizienz| | | | |
-|Zeitverhalten| | | | |
+|Verständlichkeit| | |X | |
+|Erlernbarkeit| |X | | |
+|Bedienbarkeit| |X | | |
+|Effizienz|X | | | |
+|Zeitverhalten|X | | | |
 
 ## 8. Benutzungsoberflaeche
 
