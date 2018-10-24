@@ -261,7 +261,7 @@
 
 - Zugang zur Software muss autorisiert werden
 
-**/B05/ Hilfedatenbank
+**/B05/ Hilfedatenbank**
 
 - an passenden Stellen werden Hilfetexte eingeblendet
 
@@ -286,17 +286,21 @@
 
 ### 12.1 Software
 
-- Webbrowser
+- Webbrowser (plattformunabhängig)
 
 ### 12.2 Hardware
 
 - PC
 - Laptop
+- Tablet
 - Smartphone
 
 ### 12.3 Orgware
 
+**TODO ERGÄNZEN**
+
 - Intranet
+- Cloud? --> synchronisation?
 
 ### 12.4 Produkt Schnittstellen
 
@@ -305,7 +309,18 @@
 
 ## 13. Spezielle Anforderungen an die Entwicklungsumgebung
 
-- Node.js
+- **Node.js (Backend)**
+- **Angular 6 (Frontend)**
+
+### Software
+- Texteditor
+
+### Hardware 
+- PC, Laptop
+
+### Produktschnittschtelle
+- Gitlab mit Issue handling
+
 
 ## 14. Gliederung in Teilprodukte
 
