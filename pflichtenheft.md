@@ -321,7 +321,102 @@
 ### Produktschnittschtelle
 - Gitlab mit Issue handling
 
-
 ## 14. Gliederung in Teilprodukte
 
-## 15. Ergaenzungen/Glossar
+nicht erfoderlich.
+
+## 15. Globale Testfälle
+
+**/T01/**
+
+- **Bezeichnung**: Produkt anlegen
+- **Beschreibung**: Erstellen eines Datenbestand
+- **Vorbedingung**: Produkt darf nicht vorhanden sein
+- **Sollverhalten**: Datenbestand erzeugt
+
+**/T02/**
+
+- **Bezeichnung**: Produkt änderung
+- **Beschreibung**: Änderung eines Datenbestand
+- **Vorbedingung**: Produkt muss vorhanden sein
+- **Sollverhalten**: Datenbestand veraendert
+
+**/T03/**
+
+- **Bezeichnung**: Kundendaten anlegen
+- **Beschreibung**: Erstellen eines Datensatzes
+- **Vorbedingung**: Kunde darf nicht vorhanden sein
+- **Sollverhalten**: Datensatz wird erfolgreich angelegt
+
+**/T04/**
+
+- **Bezeichnung**: Kundendaten änderung
+- **Beschreibung**: Änderung eines Datensatzes
+- **Vorbedingung**: Kunde muss vorhanden sein
+- **Sollverhalten**: Datensatz wird erfolgreich geändert
+
+**/T05/**
+
+- **Bezeichnung**: Kundendaten löschen
+- **Beschreibung**: Löschen eines Datensatzes
+- **Vorbedingung**: Kunde muss vorhanden sein
+- **Sollverhalten**: Datensatz wird erfolgreich gelöscht
+
+**/T06/**
+
+- **Bezeichnung**: Lieferant anlegen
+- **Beschreibung**: Erstellen eines Datensatzes
+- **Vorbedingung**: Lieferant darf nicht vorhanden sein
+- **Sollverhalten**: Datensatz wird erfolgreich angelegt
+
+**/T07/**
+
+- **Bezeichnung**: Lieferant ändern
+- **Beschreibung**: Ändern eines Datensatzes
+- **Vorbedingung**: Lieferant muss vorhanden sein
+- **Sollverhalten**: Datensatz wird erfolgreich geändert
+
+**/T08/**
+
+- **Bezeichnung**: Produzent anlegen
+- **Beschreibung**: Erstellen eines Datensatzes
+- **Vorbedingung**: Produzent darf noch nicht vorhanden sein
+- **Sollverhalten**: Datensatz wird erfolgreich angelegt
+
+**/T09/**
+
+- **Bezeichnung**: Produzent ändern
+- **Beschreibung**: Ändern eines Datensatzes
+- **Vorbedingung**: Produzent muss vorhanden sein
+- **Sollverhalten**: Datensatz wird erfolgreich geändert
+
+**/T10/**
+
+- **Bezeichnung**: Ausgabe bestimmter Produktdaten
+- **Beschreibung**: Produktliste ausgeben lassen 
+- **Vorbedingung**: -
+- **Sollverhalten**: Eine Liste von Produkten
+
+**/T11/**
+
+- **Bezeichnung**: Alle Produktdaten ausgeben
+- **Beschreibung**: Zu einem Produkt alle informationen ausgeben 
+- **Vorbedingung**: Produktbezeichnung muss gegeben sein
+- **Sollverhalten**: Ein Produkt mit allen informationen, welche es zu dem Produkt gibt
+
+**/T12/**
+
+- **Bezeichnung**: Lieferschein erstellen
+- **Beschreibung**: Erstellen eines Lieferschein fuer einen Kunden
+- **Vorbedingung**: Kunde und Position muss gegeben sein
+- **Sollverhalten**: Ein Lieferschein wird erstellt
+
+**/T13/**
+
+- **Bezeichnung**: Suche mit Endbenutzersprache
+- **Beschreibung**: Suche nach einem Begriff in Deutsch 
+- **Vorbedingung**: Ein Suchbegriff in Deutsch muss eingegeben werden
+- **Sollverhalten**: Alle Produkte, Lieferanten und Produzenten, welche den Suchbegriff als information beinhalten, werden ausgegeben
+
+## 16. Ergaenzungen/Glossar
+
