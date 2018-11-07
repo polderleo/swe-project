@@ -436,7 +436,7 @@ Eine Migration (aus lateinisch migratio ‚Übersiedlung‘) oder Portierung (au
 
 Eine Plattform  – auch Schicht oder Ebene genannt – bezeichnet in der Informatik eine einheitliche Grundlage, auf der Anwendungsprogramme ausgeführt und entwickelt werden können.
 
-Eine Rechnerplattform bezieht sich hierbei lediglich auf Hadware- und nicht Softwareplattformen. Beispiele für Rechnerplattformen sind Smartphones, Tabletts, Windows rechner, ...
+Eine Rechnerplattform bezieht sich hierbei lediglich auf Hadware- und nicht Softwareplattformen. Beispiele für Rechnerplattformen sind Smartphones, Tabletts, ...
 
 ### **User**
 
