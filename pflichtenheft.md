@@ -267,7 +267,7 @@
 
 ## 9. Lieferanforderungen
 
-- ausfuehrbares Programm in 2 Monaten
+- ausfuehrbares Programm in 9 Monaten
 - Installation und Einweisung vor Ort
 
 ## 10. Anforderungen an Dokumentation
