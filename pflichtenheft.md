@@ -1,11 +1,11 @@
-# Pflichtenheft **"Obst und Gemuese Meier oHG"**
+# Pflichtenheft **"Obst und Gemüse Meier OHG"**
 ---
 ## 1. Zielbestimmung
 
 ### 1.1 Musskriterien
 
-- Lagersystem fuer die Waren
-- Verwaltung von Produktdaten (Gemuese & Obstsorten)
+- Lagersystem für die Waren
+- Verwaltung von Produktdaten (Gemüse & Obstsorten)
 - Ausgabe bestimmter Daten aller Produkte (alphabetische Liste)
 - Ausgabe aller Daten eines Produkts
 - Lieferschein Erstellung
@@ -22,7 +22,7 @@
 ### 1.3 Abgrenzungskriterien
 
 - keine Vorbestellungen
-- keine Portierung auf andere Rechnerplattformen benoetigt
+- keine Portierung auf andere Rechnerplattformen benötigt
 - keine Bestellungen bei den Lieferanten
 
 ## 2. Produkteinsatz
@@ -34,97 +34,97 @@
 
 ### 2.2 Zielgruppen
  
-- Geschaeftsfuehrer 
+- Geschäftsführer 
 - Aushilfe
 
 ### 2.3 Betriebsbedingungen
 
-- Rechner im Verkausfsraum
+- Rechner im Verkaufsraum
 - Rechner im Lager
 
-## 3. Produktuebersicht
+## 3. Produktübersicht
 
 **TODO: insert graphics**
 
 ## 4. Produktfunktionen
 
-### 4.1 Anwendungsfaelle
+### 4.1 Anwendungsfälle
 
 **/F01/**
-- Geschaeftsprozess: Hinzufuegen, Aendern, Loeschen von Produkten
-- Ziel: User veraendert Produktdatenbank
-- Kategorie: primaer
+- Geschäftsprozess: Hinzufügen, ändern, Löschen von Produkten
+- Ziel: User verändert Produktdatenbank
+- Kategorie: primär
 - Vorbedingung: - 
-- Nachbedingung Erfolg: Datenbestand geaendert
-- Nachbedingung Fehlschlag: Datenbestand **nicht** geandert
-- Akteure: Geschaeftsfuehrer, Aushilfe
+- Nachbedingung Erfolg: Datenbestand geändert
+- Nachbedingung Fehlschlag: Datenbestand **nicht** geändert
+- Akteure: Geschäftsführer, Aushilfe
 - Beschreibung: 
-	- entsprechender Datenbestand veraendern
+  - entsprechender Datenbestand verändern
   - Datenbestand aktualisieren und Meldung ausgeben
 - Erweiterung:
-	- neuen Datensatz erfassen
-  - Datensatz loeschen
-  - Datensatz aendern
+  - neun Datensatz erfassen
+  - Datensatz löschen
+  - Datensatz ändern
   
 **/F02/**
-- Geschaeftsprozess: Hinzufuegen, Aendern, Loeschen von Kundendaten
-- Ziel: User veraendert Kundendatenbank
-- Kategorie: primaer
+- Geschäftsprozess: Hinzufügen, ändern, Löschen von Kundendaten
+- Ziel: User verändert Kundendatenbank
+- Kategorie: primär
 - Vorbedingung: - 
-- Nachbedingung Erfolg: Datenbestand geaendert
-- Nachbedingung Fehlschlag: Datenbestand **nicht** geandert
-- Akteure: Geschaeftsfuehrer, Aushilfe
+- Nachbedingung Erfolg: Datenbestand geändert
+- Nachbedingung Fehlschlag: Datenbestand **nicht** geändert
+- Akteure: Geschäftsführer, Aushilfe
 - Beschreibung: 
-	- entsprechender Datenbestand veraendern
+  - entsprechender Datenbestand verändern
   - Datenbestand aktualisieren und Meldung ausgeben
 - Erweiterung:
-	- neuen Datensatz erfassen
-  - Datensatz loeschen
-  - Datensatz aendern
+  - neun Datensatz erfassen
+  - Datensatz löschen
+  - Datensatz ändern
   
 **/F03/**
-- Geschaeftsprozess: Hinzufuegen, Aendern, Loeschen von Lieferantendaten
-- Ziel: User veraendert Lieferantendaten
-- Kategorie: primaer
+- Geschäftsprozess: Hinzufügen, ändern, Löschen von Lieferantendaten
+- Ziel: User verändert Lieferantendaten
+- Kategorie: primär
 - Vorbedingung: - 
-- Nachbedingung Erfolg: Datenbestand geaendert
-- Nachbedingung Fehlschlag: Datenbestand **nicht** geandert
-- Akteure: Geschaeftsfuehrer
+- Nachbedingung Erfolg: Datenbestand geändert
+- Nachbedingung Fehlschlag: Datenbestand **nicht** geändert
+- Akteure: Geschäftsführer
 - Beschreibung: 
-	- entsprechender Datenbestand veraendern
+  - entsprechender Datenbestand verändern
   - Datenbestand aktualisieren und Meldung ausgeben
 - Erweiterung:
-	- neuen Datensatz erfassen
-  - Datensatz loeschen
-  - Datensatz aendern
+  - neun Datensatz erfassen
+  - Datensatz löschen
+  - Datensatz ändern
   
 **/F04/**
-- Geschaeftsprozess: Hinzufuegen, Aendern, Loeschen von Produzentendaten
-- Ziel: User veraendert Produzentendaten
-- Kategorie: primaer
+- Geschäftsprozess: Hinzufügen, ändern, Löschen von Produzentendaten
+- Ziel: User verändert Produzentendaten
+- Kategorie: primär
 - Vorbedingung: - 
-- Nachbedingung Erfolg: Datenbestand geaendert
-- Nachbedingung Fehlschlag: Datenbestand **nicht** geandert
-- Akteure: Geschaeftsfuehrer
+- Nachbedingung Erfolg: Datenbestand geändert
+- Nachbedingung Fehlschlag: Datenbestand **nicht** geändert
+- Akteure: Geschäftsführer
 - Beschreibung: 
-	- entsprechender Datenbestand veraendern
+  - entsprechender Datenbestand verändern
   - Datenbestand aktualisieren und Meldung ausgeben
 - Erweiterung:
-	- neuen Datensatz erfassen
-  - Datensatz loeschen
-  - Datensatz aendern
+  - neun Datensatz erfassen
+  - Datensatz löschen
+  - Datensatz ändern
   
 **/F05/**
-- Geschaeftsprozess: Ausgabe bestimmter Daten aller Produkte (alphabetische Liste)
-- Ziel: User erhaelt Produktliste
-- Kategorie: primaer
+- Geschäftsprozess: Ausgabe bestimmter Daten aller Produkte (alphabetische Liste)
+- Ziel: User erhält Produktliste
+- Kategorie: primär
 - Vorbedingung: - 
-- Nachbedingung Erfolg: Rueckgabe einer Liste
+- Nachbedingung Erfolg: Rückgabe einer Liste
 - Nachbedingung Fehlschlag: Fehlermeldung
-- Akteure: Geschaeftsfuehrer, Aushilfe
+- Akteure: Geschäftsführer, Aushilfe
 - Beschreibung: 
-	- Ausgabe von folgenden Daten pro Produkt als Liste: 
-  	- Anzahl
+  - Ausgabe von folgenden Daten pro Produkt als Liste: 
+    - Anzahl
     - Bezeichnung
     - Kategorie
     - Einkaufsdatum
@@ -133,44 +133,44 @@
 - Erweiterung: - 
   
 **/F06/**
-- Geschaeftsprozess: Ausgabe aller Daten **eines** Produkts
-- Ziel: User erhaelt alle Daten eines Produkts
-- Kategorie: primaer
+- Geschäftsprozess: Ausgabe aller Daten **eines** Produkts
+- Ziel: User erhält alle Daten eines Produkts
+- Kategorie: primär
 - Vorbedingung: Eingabe des Produkts anhand **Bezeichnung** 
-- Nachbedingung Erfolg: Rueckgabe einer Liste
+- Nachbedingung Erfolg: Rückgabe einer Liste
 - Nachbedingung Fehlschlag: Fehlermeldung
-- Akteure: Geschaeftsfuehrer, Aushilfe
+- Akteure: Geschäftsführer, Aushilfe
 - Beschreibung: 
-	- Ausgabe von **allen** Daten eines Produkts
+  - Ausgabe von **allen** Daten eines Produkts
 - Erweiterung: - 
 
 **/F07/**
-- Geschaeftsprozess: Lieferschein erstellen fuer Kunden
-- Ziel: User erhaelt Lieferschein
-- Kategorie: primaer
+- Geschäftsprozess: Lieferschein erstellen für Kunden
+- Ziel: User erhält Lieferschein
+- Kategorie: primär
 - Vorbedingung: 
-	- Eingabe des Kunden
+  - Eingabe des Kunden
   - Eingabe von Positionen
-- Nachbedingung Erfolg: Rueckgabe eines Dokuments
+- Nachbedingung Erfolg: Rückgabe eines Dokuments
 - Nachbedingung Fehlschlag: Fehlermeldung
-- Akteure: Geschaeftsfuehrer, Aushilfe
+- Akteure: Geschäftsführer, Aushilfe
 - Beschreibung: 
-	- Kundendaten aus Kundendatenbank abrufen und eintragen
+  - Kundendaten aus Kundendatenbank abrufen und eintragen
   - eingegebene Positionen (Menge, Bezeichnung) eintragen
   - Dokument erzeugen
 - Erweiterung: - 
 
 **/F08/**
-- Geschaeftsprozess: Suche mit Endbenutzersprache
-- Ziel: User erhaelt Suchergebnis(se)
-- Kategorie: primaer
+- Geschäftsprozess: Suche mit Endbenutzersprache
+- Ziel: User erhält Suchergebnis(se)
+- Kategorie: primär
 - Vorbedingung: 
-	- Eingabe des Suchbegriffs
-- Nachbedingung Erfolg: Rueckgabe einer Liste
+  - Eingabe des Suchbegriffs
+- Nachbedingung Erfolg: Rückgabe einer Liste
 - Nachbedingung Fehlschlag: Fehlermeldung
-- Akteure: Geschaeftsfuehrer, Aushilfe
+- Akteure: Geschäftsführer, Aushilfe
 - Beschreibung: 
-	- Vergleich des Suchbegriffs mit allen Elementen in allen Datenbanken
+  - Vergleich des Suchbegriffs mit allen Elementen in allen Datenbanken
   - Ausgabe aller "Matches"
 - Erweiterung: - 
   
@@ -179,12 +179,11 @@
 **/D01/ Produktdaten**
 - Anzahl
 - Bezeichnung
-- Herkunft(Land, Region)
+- Herkunft (Land, Region)
 - Kategorie
 - Verkaufspreis
 - Einkaufspreis
 - Bezugsquelle
-
 
 **/D02/ Lieferantendaten**
 - Name
@@ -203,19 +202,19 @@
 ## 6. Leistungsanforderungen
 
 **/L01/ Listenausgabe**
-- 1000 Produkte müssen innerhalb von 2 Sekunden abegrufen werden können!
+- 1000 Produkte müssen innerhalb von 2 Sekunden abgerufen werden können!
 
-**WIP** Verfeinerung / Eigene ANforderungen
+**WIP** Verfeinerung / Eigene Anforderungen
 
 ## 7. Qualitätsanforderung
 
 | Produktqualität | sehr gut | gut | normal |nicht relevant |
 |---|---|---|---|---|
 | **Funktionalität** | | | | |
-|Angemessenheit|X | | | |
+|Angemessenheit |X | | | |
 |Richtigkeit| |X | | |
-|Interoperabilität|X |X | | |
-|Ordnungsmäßigkeit|X | | | |
+|Interoperabilität |X |X | | |
+|Ordnungsmäßigkeit |X | | | |
 |Sicherheit| | |X | |
 |Übertragbarkeit| | | |X|
 |**Zuverlässigkeit**| | | | |
@@ -226,20 +225,20 @@
 |Verständlichkeit| | |X | |
 |Erlernbarkeit| |X | | |
 |Bedienbarkeit| |X | | |
-|Effizienz|X | | | |
-|Zeitverhalten|X | | | |
+|Effizienz |X | | | |
+|Zeitverhalten |X | | | |
 
-## 8. Benutzungsoberflaeche
+## 8. Benutzungsoberfläche
 
 **/B01/ Aussehen**
 
-- Responsives Design, fuer Darstellung auf kleinem Monitor im Verkaufsraum, aber auch grosses Display im Lager
+- Responsives Design, für Darstellung auf kleinem Monitor im Verkaufsraum, aber auch großes Display im Lager
 - Einfache Designsprache, klare Schrift (Kontrast), evtl. barrierefrei
 
 **/B02/ Aufbau**
 
-- "uebersichtliche Struktur"
-- Oberer Bereich: Menueleiste mit Optionen
+- "übersichtliche Struktur"
+- Oberer Bereich: Menüleiste mit Optionen
   - Datenbankoperationen(/F01-F04/)
     - Produkt
     - Kunde
@@ -252,7 +251,7 @@
 
 **/B03/ Fehleingaben**
 
-- Fehleingaben beispielsweise bei Datenbankoperationen muessen abgefangen werden und eine Fehlermeldung muss angezeigt werden
+- Fehleingaben beispielsweise bei Datenbankoperationen müssen abgefangen werden und eine Fehlermeldung muss angezeigt werden
 
 **/B04/ Authentifizierung**
 
@@ -260,24 +259,24 @@
 
 **/B05/ Hilfedatenbank**
 
-- an passenden Stellen werden Hilfetexte eingeblendet
+- anpassenden Stellen werden Hilfetexte eingeblendet
 
 ## 9. Lieferanforderungen
 
-- ausfuehrbares Programm in 9 Monaten
+- ausführbares Programm in 9 Monaten
 - Installation und Einweisung vor Ort
 
 ## 10. Anforderungen an Dokumentation
 
 - Benutzerhandbuch und Installationshinweise
-- Changelog
+- Change log
 
 ## 11. Nichtfunktionale Anforderungen
 
 - Authentifizierung
-- Alle Datenbanken verschluesselt
-- Preis 0 EUR oder Rabatt groesser 10% nur durch Authentifizierung des Geschaeftsfuehrers
-- alle Loeschoperationen nur durch Geschaeftsfuehrer moeglich
+- Alle Datenbanken verschlüsselt
+- Preis 0 EUR oder Rabatt grösser 10% nur durch Authentifizierung des Geschäftsführers
+- alle Löschoperationen nur durch Geschäftsführer möglich
 
 ## 12. Technische Produktumgebung
 
@@ -294,7 +293,7 @@
 
 ### 12.3 Orgware
 
-- Netzwerk anbindung zu allen geräten, welche das Programm nutzen sollen
+- Netzwerk Anbindung zu allen Geräten, welche das Programm nutzen sollen
 - Datenbank Server muss vorhanden sein
 
 ### 12.4 Produkt Schnittstellen
@@ -313,28 +312,28 @@
 ### Hardware 
 - PC, Laptop
 
-### Produktschnittschtelle
-- Gitlab mit Issue handling
+### Produktschnittstelle
+- Gitlab mit Issue Handling
 
 ## 14. Gliederung in Teilprodukte
 
-nicht erfoderlich.
+nicht erforderlich.
 
 ## 15. Globale Testfälle
 
 **/T01/**
 
 - **Bezeichnung**: Produkt anlegen
-- **Beschreibung**: Erstellen eines Datenbestand
+- **Beschreibung**: Erstellen eines Datenbestands
 - **Vorbedingung**: Produkt darf nicht vorhanden sein
 - **Sollverhalten**: Datenbestand erzeugt
 
 **/T02/**
 
-- **Bezeichnung**: Produkt änderung
-- **Beschreibung**: Änderung eines Datenbestand
+- **Bezeichnung**: Produkt ändern
+- **Beschreibung**: Änderung eines Datenbestands
 - **Vorbedingung**: Produkt muss vorhanden sein
-- **Sollverhalten**: Datenbestand veraendert
+- **Sollverhalten**: Datenbestand verändert
 
 **/T03/**
 
@@ -345,7 +344,7 @@ nicht erfoderlich.
 
 **/T04/**
 
-- **Bezeichnung**: Kundendaten änderung
+- **Bezeichnung**: Kundendaten ändern
 - **Beschreibung**: Änderung eines Datensatzes
 - **Vorbedingung**: Kunde muss vorhanden sein
 - **Sollverhalten**: Datensatz wird erfolgreich geändert
@@ -395,14 +394,14 @@ nicht erfoderlich.
 **/T11/**
 
 - **Bezeichnung**: Alle Produktdaten ausgeben
-- **Beschreibung**: Zu einem Produkt alle informationen ausgeben 
+- **Beschreibung**: Zu einem Produkt alle Informationen ausgeben 
 - **Vorbedingung**: Produktbezeichnung muss gegeben sein
-- **Sollverhalten**: Ein Produkt mit allen informationen, welche es zu dem Produkt gibt
+- **Sollverhalten**: Ein Produkt mit allen Informationen, welche es zu dem Produkt gibt
 
 **/T12/**
 
 - **Bezeichnung**: Lieferschein erstellen
-- **Beschreibung**: Erstellen eines Lieferschein fuer einen Kunden
+- **Beschreibung**: Erstellen eines Lieferscheines für einen Kunden
 - **Vorbedingung**: Kunde und Position muss gegeben sein
 - **Sollverhalten**: Ein Lieferschein wird erstellt
 
@@ -411,17 +410,17 @@ nicht erfoderlich.
 - **Bezeichnung**: Suche mit Endbenutzersprache
 - **Beschreibung**: Suche nach einem Begriff in Deutsch 
 - **Vorbedingung**: Ein Suchbegriff in Deutsch muss eingegeben werden
-- **Sollverhalten**: Alle Produkte, Lieferanten und Produzenten, welche den Suchbegriff als information beinhalten, werden ausgegeben
+- **Sollverhalten**: Alle Produkte, Lieferanten und Produzenten, welche den Suchbegriff als Information beinhalten, werden ausgegeben
 
-## 16. Ergaenzungen/Glossar
+## 16. Ergänzungen/Glossar
 
 ### **Produktdaten**
 
-Produktdaten sind Gemüse und obst
+Produktdaten sind Gemüse und Obst
 
 ### **Attribute**
 
-Attribut (zu deutsch Eigenschaften) sind einem konkreten Objekt zugeordnetes Merkmal in Programmiersprachen oder Datenbanken.
+Attribut (zu Deutsch Eigenschaften) sind einem konkreten Objekt zugeordnetes Merkmal in Programmiersprachen oder Datenbanken.
 
 ### **Portierung**
 
@@ -431,7 +430,7 @@ Eine Migration (aus lateinisch migratio ‚Übersiedlung‘) oder Portierung (au
 
 Eine Plattform  – auch Schicht oder Ebene genannt – bezeichnet in der Informatik eine einheitliche Grundlage, auf der Anwendungsprogramme ausgeführt und entwickelt werden können.
 
-Eine Rechnerplattform bezieht sich hierbei lediglich auf Hadware- und nicht Softwareplattformen. Beispiele für Rechnerplattformen sind Smartphones, Tabletts, ...
+Eine Rechnerplattform bezieht sich hierbei lediglich auf Hardware- und nicht Softwareplattformen. Beispiele für Rechnerplattformen sind Smartphones, Tabletts, ...
 
 ### **User**
 
@@ -443,11 +442,11 @@ Beim Responsive Webdesign (im Deutschen auch responsives Webdesign genannt oder 
 
 ### **Designsprache**
 
-Designsprache ist eine Sprache, welche zum entwickeln von Benutzeroberflächen verwendet wird. Eine Weitere bedeutung ist das entwerfen eines Programms mit hilfe von Standartisierten Modellen.
+Designsprache ist eine Sprache, welche zum Entwickeln von Benutzeroberflächen verwendet wird. Eine weitere Bedeutung ist das entwerfen eines Programms mit Hilfe von Standardisierten Modellen.
 
 ### **Hilfetexte**
 
-Hilfetexte in der Software entwicklung auch ToolTip genannt, werden einem Benutzer in einer Grafischen Benutzeroberfläche angezeigt, wenn dieser mit dem Mauszeiger in einem Bereich sich befindet, welcher einen Hilfetext zur verfügung stellt. 
+Hilfetexte in der Software Entwicklung auch Tooltip genannt, werden einem Benutzer in einer Grafischen Benutzeroberfläche angezeigt, wenn dieser mit dem Mauszeiger in einem Bereich sich befindet, welcher einen Hilfetext zur Verfügung stellt. 
 
 ### **Authentifizierung**
 
@@ -455,7 +454,7 @@ Authentifizierung ist der Nachweis (Verifizierung) einer behaupteten Eigenschaft
 
 Das zugehörige Verb lautet authentifizieren (englisch: authenticate), das für das Bezeugen der Echtheit von etwas steht.
 
-Allgemein vertsht man in der Informatik auch den Anmeldeprozess dahinter, sprich der Teil einer Applikation, welcher sich um die Anmeldung kümmert.
+Allgemein versteht man in der Informatik auch den Anmeldeprozess dahinter, sprich der Teil einer Applikation, welcher sich um die Anmeldung kümmert.
 
 ### **Synchronisation**
 
@@ -468,3 +467,4 @@ Die Begriffe Front-End und Back-End (von englisch für Vor- bzw. Über- und Unte
 ### **Datenbank**
 
 Eine Datenbank, auch Datenbanksystem genannt, ist ein System zur elektronischen Datenverwaltung. Die wesentliche Aufgabe einer Datenbank ist es, große Datenmengen effizient, widerspruchsfrei und dauerhaft zu speichern und benötigte Teilmengen in unterschiedlichen, bedarfsgerechten Darstellungsformen für Benutzer und Anwendungsprogramme bereitzustellen.
+
