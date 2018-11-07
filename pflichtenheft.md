@@ -209,8 +209,6 @@
 
 ## 7. Qualitätsanforderung
 
-**TODO WEITERE ASPEKTE**
-
 | Produktqualität | sehr gut | gut | normal |nicht relevant |
 |---|---|---|---|---|
 | **Funktionalität** | | | | |
