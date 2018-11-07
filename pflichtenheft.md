@@ -23,7 +23,7 @@
 
 - keine Vorbestellungen
 - keine Portierung auf andere Rechnerplattformen benoetigt
-**TODO**
+- keine Bestellungen bei den Lieferanten
 
 ## 2. Produkteinsatz
 
@@ -130,7 +130,6 @@
     - Einkaufsdatum
     - Mindesthaltbarkeitsdatum
     - Preis
-    - **TODO**
 - Erweiterung: - 
   
 **/F06/**
