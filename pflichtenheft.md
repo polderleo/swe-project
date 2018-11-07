@@ -22,7 +22,7 @@
 ### 1.3 Abgrenzungskriterien
 
 - keine Vorbestellungen
-- keine Portierung auf andere Rechnerplatformen benoetigt
+- keine Portierung auf andere Rechnerplattformen benoetigt
 **TODO**
 
 ## 2. Produkteinsatz
@@ -420,3 +420,48 @@ nicht erfoderlich.
 
 ## 16. Ergaenzungen/Glossar
 
+### **Produktdaten**
+
+Produktdaten sind Gemüse und obst
+
+### **Attribute**
+
+Attribut (zu deutsch Eigenschaften) sind einem konkreten Objekt zugeordnetes Merkmal in Programmiersprachen oder Datenbanken.
+
+### **Portierung**
+
+Eine Migration (aus lateinisch migratio ‚Übersiedlung‘) oder Portierung (aus lateinisch portatio für ‚herbeischaffen‘) ist in der Informationstechnik ein Umstellungsprozess in Datenverarbeitungssystemen.
+
+### **Rechnerplattformen**
+
+Eine Plattform  – auch Schicht oder Ebene genannt – bezeichnet in der Informatik eine einheitliche Grundlage, auf der Anwendungsprogramme ausgeführt und entwickelt werden können.
+
+Eine Rechnerplattform bezieht sich hierbei lediglich auf Hadware- und nicht Softwareplattformen. Beispiele für Rechnerplattformen sind Smartphones, Tabletts, Windows rechner, ...
+
+### **User**
+
+Ein Benutzer (auch Endbenutzer, Bediener oder kurz Nutzer genannt sowie englisch User) ist eine Person, die ein Hilfs- oder Arbeitsmittel zur Erzielung eines Nutzens verwendet
+
+### **Responsives Design**
+
+Beim Responsive Webdesign (im Deutschen auch responsives Webdesign genannt oder kurz RWD, englisch responsive, deutsch ‚reagierend‘) handelt es sich um ein gestalterisches und technisches Paradigma zur Erstellung von Websites, so dass diese auf Eigenschaften des jeweils benutzten Endgeräts, vor allem Smartphones und Tabletcomputer, reagieren können. 
+
+### **Designsprache**
+
+Designsprache ist eine Sprache, welche zum entwickeln von Benutzeroberflächen verwendet wird. Eine Weitere bedeutung ist das entwerfen eines Programms mit hilfe von Standartisierten Modellen.
+
+### **Hilfetexte**
+
+Hilfetexte in der Software entwicklung auch ToolTip genannt, werden einem Benutzer in einer Grafischen Benutzeroberfläche angezeigt, wenn dieser mit dem Mauszeiger in einem Bereich sich befindet, welcher einen Hilfetext zur verfügung stellt. 
+
+### **Authentifizierung**
+
+Authentifizierung ist der Nachweis (Verifizierung) einer behaupteten Eigenschaft einer Entität und die dabei durch ihren Beitrag ihre Authentisierung durchführt.
+
+Das zugehörige Verb lautet authentifizieren (englisch: authenticate), das für das Bezeugen der Echtheit von etwas steht.
+
+Allgemein vertsht man in der Informatik auch den Anmeldeprozess dahinter, sprich der Teil einer Applikation, welcher sich um die Anmeldung kümmert.
+
+### **Synchronisation**
+
+Synchronisation bezeichnet das zeitliche Abgleichen von Vorgängen, Uhren und Zeitgebern. Synchronisation sorgt dafür, dass Vorgänge gleichzeitig (synchron) oder in einer bestimmten Reihenfolge temporal geordnet ablaufen.
