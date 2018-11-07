@@ -297,10 +297,8 @@
 
 ### 12.3 Orgware
 
-**TODO ERGÄNZEN**
-
-- Intranet
-- Cloud? --> synchronisation?
+- Netzwerk anbindung zu allen geräten, welche das Programm nutzen sollen
+- Datenbank Server muss vorhanden sein
 
 ### 12.4 Produkt Schnittstellen
 
@@ -465,3 +463,11 @@ Allgemein vertsht man in der Informatik auch den Anmeldeprozess dahinter, sprich
 ### **Synchronisation**
 
 Synchronisation bezeichnet das zeitliche Abgleichen von Vorgängen, Uhren und Zeitgebern. Synchronisation sorgt dafür, dass Vorgänge gleichzeitig (synchron) oder in einer bestimmten Reihenfolge temporal geordnet ablaufen.
+
+### **Backend** und **Frontend**
+
+Die Begriffe Front-End und Back-End (von englisch für Vor- bzw. Über- und Unterbau, wörtlich vorderes und hinteres Ende) werden in der Informationstechnik an verschiedenen Stellen in Verbindung mit einer Schichteneinteilung verwendet. Dabei ist typischerweise das Front-End näher am Benutzer, das Back-End näher am System. In manchen Fällen ist diese Interpretation nicht anwendbar, es gilt aber prinzipiell, dass das Front-End näher an der Eingabe und das Back-End näher an der Verarbeitung ist. 
+
+### **Datenbank**
+
+Eine Datenbank, auch Datenbanksystem genannt, ist ein System zur elektronischen Datenverwaltung. Die wesentliche Aufgabe einer Datenbank ist es, große Datenmengen effizient, widerspruchsfrei und dauerhaft zu speichern und benötigte Teilmengen in unterschiedlichen, bedarfsgerechten Darstellungsformen für Benutzer und Anwendungsprogramme bereitzustellen.
