@@ -63,7 +63,7 @@
   - entsprechender Datenbestand verändern
   - Datenbestand aktualisieren und Meldung ausgeben
 - Erweiterung:
-  - neun Datensatz erfassen
+  - neuen Datensatz erfassen
   - Datensatz löschen
   - Datensatz ändern
   
@@ -80,7 +80,7 @@
   - entsprechender Datenbestand verändern
   - Datenbestand aktualisieren und Meldung ausgeben
 - Erweiterung:
-  - neun Datensatz erfassen
+  - neuen Datensatz erfassen
   - Datensatz löschen
   - Datensatz ändern
   
@@ -97,7 +97,7 @@
   - entsprechender Datenbestand verändern
   - Datenbestand aktualisieren und Meldung ausgeben
 - Erweiterung:
-  - neun Datensatz erfassen
+  - neuen Datensatz erfassen
   - Datensatz löschen
   - Datensatz ändern
   
@@ -114,7 +114,7 @@
   - entsprechender Datenbestand verändern
   - Datenbestand aktualisieren und Meldung ausgeben
 - Erweiterung:
-  - neun Datensatz erfassen
+  - neuen Datensatz erfassen
   - Datensatz löschen
   - Datensatz ändern
   
