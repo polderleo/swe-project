@@ -1,4 +1,4 @@
-# Pflichtenheft **"Obst und Gemüse Meier OHG"**
+# Pflichtenheft **"Obst und Gemüse Meier OHG"** NOT UPDATED
 ---
 ## 1. Zielbestimmung
 
