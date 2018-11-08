@@ -51,14 +51,15 @@
 ### 4.1 Anwendungsfälle
 
 **/F01/**
+
 - Geschäftsprozess: Hinzufügen, ändern, Löschen von Produkten
 - Ziel: User verändert Produktdatenbank
 - Kategorie: primär
-- Vorbedingung: - 
+- Vorbedingung: keine
 - Nachbedingung Erfolg: Datenbestand geändert
 - Nachbedingung Fehlschlag: Datenbestand **nicht** geändert
 - Akteure: Geschäftsführer, Aushilfe
-- Beschreibung: 
+- Beschreibung:
   - entsprechender Datenbestand verändern
   - Datenbestand aktualisieren und Meldung ausgeben
 - Erweiterung:
@@ -67,14 +68,15 @@
   - Datensatz ändern
   
 **/F02/**
+
 - Geschäftsprozess: Hinzufügen, ändern, Löschen von Kundendaten
 - Ziel: User verändert Kundendatenbank
 - Kategorie: primär
-- Vorbedingung: - 
+- Vorbedingung: keine
 - Nachbedingung Erfolg: Datenbestand geändert
 - Nachbedingung Fehlschlag: Datenbestand **nicht** geändert
 - Akteure: Geschäftsführer, Aushilfe
-- Beschreibung: 
+- Beschreibung:
   - entsprechender Datenbestand verändern
   - Datenbestand aktualisieren und Meldung ausgeben
 - Erweiterung:
@@ -83,14 +85,15 @@
   - Datensatz ändern
   
 **/F03/**
+
 - Geschäftsprozess: Hinzufügen, ändern, Löschen von Lieferantendaten
 - Ziel: User verändert Lieferantendaten
 - Kategorie: primär
-- Vorbedingung: - 
+- Vorbedingung: keine
 - Nachbedingung Erfolg: Datenbestand geändert
 - Nachbedingung Fehlschlag: Datenbestand **nicht** geändert
 - Akteure: Geschäftsführer
-- Beschreibung: 
+- Beschreibung:
   - entsprechender Datenbestand verändern
   - Datenbestand aktualisieren und Meldung ausgeben
 - Erweiterung:
@@ -99,14 +102,15 @@
   - Datensatz ändern
   
 **/F04/**
+
 - Geschäftsprozess: Hinzufügen, ändern, Löschen von Produzentendaten
 - Ziel: User verändert Produzentendaten
 - Kategorie: primär
-- Vorbedingung: - 
+- Vorbedingung: keine
 - Nachbedingung Erfolg: Datenbestand geändert
 - Nachbedingung Fehlschlag: Datenbestand **nicht** geändert
 - Akteure: Geschäftsführer
-- Beschreibung: 
+- Beschreibung:
   - entsprechender Datenbestand verändern
   - Datenbestand aktualisieren und Meldung ausgeben
 - Erweiterung:
@@ -115,24 +119,26 @@
   - Datensatz ändern
   
 **/F05/**
+
 - Geschäftsprozess: Ausgabe bestimmter Daten aller Produkte (alphabetische Liste)
 - Ziel: User erhält Produktliste
 - Kategorie: primär
-- Vorbedingung: - 
+- Vorbedingung: keine
 - Nachbedingung Erfolg: Rückgabe einer Liste
 - Nachbedingung Fehlschlag: Fehlermeldung
 - Akteure: Geschäftsführer, Aushilfe
-- Beschreibung: 
-  - Ausgabe von folgenden Daten pro Produkt als Liste: 
+- Beschreibung:
+  - Ausgabe von folgenden Daten pro Produkt als Liste:
     - Anzahl
     - Bezeichnung
     - Kategorie
     - Einkaufsdatum
     - Mindesthaltbarkeitsdatum
     - Preis
-- Erweiterung: - 
+- Erweiterung: keine
   
 **/F06/**
+
 - Geschäftsprozess: Ausgabe aller Daten **eines** Produkts
 - Ziel: User erhält alle Daten eines Produkts
 - Kategorie: primär
@@ -140,43 +146,47 @@
 - Nachbedingung Erfolg: Rückgabe einer Liste
 - Nachbedingung Fehlschlag: Fehlermeldung
 - Akteure: Geschäftsführer, Aushilfe
-- Beschreibung: 
+- Beschreibung:
   - Ausgabe von **allen** Daten eines Produkts
-- Erweiterung: - 
+- Erweiterung: keine
 
 **/F07/**
+
 - Geschäftsprozess: Lieferschein erstellen für Kunden
 - Ziel: User erhält Lieferschein
 - Kategorie: primär
-- Vorbedingung: 
+- Vorbedingung:
   - Eingabe des Kunden
   - Eingabe von Positionen
 - Nachbedingung Erfolg: Rückgabe eines Dokuments
 - Nachbedingung Fehlschlag: Fehlermeldung
 - Akteure: Geschäftsführer, Aushilfe
-- Beschreibung: 
+- Beschreibung:
   - Kundendaten aus Kundendatenbank abrufen und eintragen
   - eingegebene Positionen (Menge, Bezeichnung) eintragen
   - Dokument erzeugen
-- Erweiterung: - 
+- Erweiterung: keine
 
 **/F08/**
+
 - Geschäftsprozess: Suche mit Endbenutzersprache
 - Ziel: User erhält Suchergebnis(se)
 - Kategorie: primär
-- Vorbedingung: 
+- Vorbedingung:
   - Eingabe des Suchbegriffs
 - Nachbedingung Erfolg: Rückgabe einer Liste
 - Nachbedingung Fehlschlag: Fehlermeldung
 - Akteure: Geschäftsführer, Aushilfe
-- Beschreibung: 
+- Beschreibung:
   - Vergleich des Suchbegriffs mit allen Elementen in allen Datenbanken
   - Ausgabe aller "Matches"
-- Erweiterung: - 
+- Erweiterung: keine
   
 
 ## 5. Produktdaten
+
 **/D01/ Produktdaten**
+
 - Anzahl
 - Bezeichnung
 - Herkunft (Land, Region)
@@ -186,22 +196,26 @@
 - Bezugsquelle
 
 **/D02/ Lieferantendaten**
+
 - Name
 - Adresse
 - Preisliste
 
 **/D03/ Produzent**
+
 - Name
 - Adresse
 - Preisliste
 
 **/D04/ Kunde**
+
 - Name
 - Adresse
 
 ## 6. Leistungsanforderungen
 
 **/L01/ Listenausgabe**
+
 - 1000 Produkte müssen innerhalb von 2 Sekunden abgerufen werden können!
 
 **WIP** Verfeinerung / Eigene Anforderungen
